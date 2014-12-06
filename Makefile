@@ -18,4 +18,4 @@ build:
 	-grunt build
 
 test:
-	-grunt test --verbose
+	-grunt test --verbose 
